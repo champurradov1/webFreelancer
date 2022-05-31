@@ -1,0 +1,53 @@
+Enlaces que voy descubriendo durante el curso
+
+Aplicación para ver como va quedando nuestra web en diferentes dispositivos https://responsively.app/ 
+Web para sacar un generador de degradado css y demas  https://www.cssmatic.com/
+Con esta web podemos buscar por algo especifico y ver si ya no se usan https://caniuse.com/
+
+-------------------------------
+media querie para un tlf 
+@media (min-width: 480px) {
+    
+}
+
+para una tablet
+@media (min-width: 768px) {
+
+}
+
+Para laptops
+@media (min-width: 1140px) {
+    
+}
+
+@media (min-width: 1400px) {
+    
+}
+
+
+
+--------------------------------
+Sobre clase de front end 1
+
+prettier - code formatter
+Color Highlight
+Live Server
+Path Intellisense
+Auto Rename Tag
+Material Icon
+
+Recomienda usar react con js (para empezar)
+y luego react con typescript
+
+angular es full typescript
+
+
+----------------------
+
+procesadores de css
+
+less 
+stylus
+sass
+----------------------
+
